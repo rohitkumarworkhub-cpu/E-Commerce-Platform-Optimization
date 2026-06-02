@@ -51,6 +51,11 @@ Visual representation of proposed UI/UX improvements.
 
 Sample SQL queries for analyzing products, categories, pricing, and inventory trends.
 
+### User Acceptance Testing (UAT)
+
+Created and executed UAT test cases to validate that proposed platform improvements aligned with business requirements and stakeholder expectations.
+
+
 ### Business Insights
 
 Key findings and recommendations based on project analysis.
